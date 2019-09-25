@@ -1,0 +1,20 @@
+{
+  "questions": [
+
+    {
+      "answers": [
+        "More than 1 but less than 3",
+        "More than 3 but less than 6",
+        "No differences"
+      ],
+      "correct": {
+        "index": 1
+      },
+      "image": "img/q1.jpg",
+      "number": 1,
+      "prompt": "The artist is best known for his representations of village life, especially \"Santhal\" women."
+    }
+  ],
+  "title": "Spot The Difference",
+  "url": "https://spotthedifference.artfervour.ga/"
+}
